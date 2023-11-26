@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maokadtech
 - 👀 I’m interested in Data science and machine learning
-- 🌱 I’m currently learning  python for beginners
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning  python for Data Science and Machine Learning 
+- 💞️ I’m looking to collaborate on Ml projects or any data related projects
 - 📫 How to reach me on Gmail samadayomide41@gmail.com
 
 <!---
